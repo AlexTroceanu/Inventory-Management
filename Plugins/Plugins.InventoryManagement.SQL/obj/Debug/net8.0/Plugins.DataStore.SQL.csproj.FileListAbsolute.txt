@@ -1,0 +1,38 @@
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\bin\Debug\net8.0\Plugins.DataStore.SQL.deps.json
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\bin\Debug\net8.0\Plugins.DataStore.SQL.runtimeconfig.json
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\bin\Debug\net8.0\Plugins.DataStore.SQL.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\bin\Debug\net8.0\Plugins.DataStore.SQL.pdb
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\bin\Debug\net8.0\CoreBusiness.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\bin\Debug\net8.0\CoreBusiness.pdb
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins.DataStore.SQL.csproj.AssemblyReference.cache
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins.DataStore.SQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins.DataStore.SQL.AssemblyInfoInputs.cache
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins.DataStore.SQL.AssemblyInfo.cs
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins.DataStore.SQL.csproj.CoreCompileInputs.cache
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins..35A47F24.Up2Date
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins.DataStore.SQL.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\refint\Plugins.DataStore.SQL.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins.DataStore.SQL.pdb
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins.DataStore.SQL.genruntimeconfig.cache
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\ref\Plugins.DataStore.SQL.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\bin\Debug\net8.0\UseCases.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Plugins\Plugins.InventoryManagement.SQL\bin\Debug\net8.0\UseCases.pdb
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\bin\Debug\net8.0\Plugins.DataStore.SQL.deps.json
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\bin\Debug\net8.0\Plugins.DataStore.SQL.runtimeconfig.json
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\bin\Debug\net8.0\Plugins.DataStore.SQL.dll
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\bin\Debug\net8.0\Plugins.DataStore.SQL.pdb
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\bin\Debug\net8.0\CoreBusiness.dll
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\bin\Debug\net8.0\UseCases.dll
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\bin\Debug\net8.0\CoreBusiness.pdb
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\bin\Debug\net8.0\UseCases.pdb
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins.DataStore.SQL.csproj.AssemblyReference.cache
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins.DataStore.SQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins.DataStore.SQL.AssemblyInfoInputs.cache
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins.DataStore.SQL.AssemblyInfo.cs
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins.DataStore.SQL.csproj.CoreCompileInputs.cache
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins..35A47F24.Up2Date
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins.DataStore.SQL.dll
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\refint\Plugins.DataStore.SQL.dll
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins.DataStore.SQL.pdb
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\Plugins.DataStore.SQL.genruntimeconfig.cache
+D:\WAD\MVC Core\Plugins\Plugins.InventoryManagement.SQL\obj\Debug\net8.0\ref\Plugins.DataStore.SQL.dll

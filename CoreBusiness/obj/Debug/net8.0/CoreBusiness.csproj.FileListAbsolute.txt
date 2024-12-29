@@ -1,0 +1,22 @@
+D:\WAD\Backup Fara Nebuneli\MVC Core\CoreBusiness\bin\Debug\net8.0\CoreBusiness.deps.json
+D:\WAD\Backup Fara Nebuneli\MVC Core\CoreBusiness\bin\Debug\net8.0\CoreBusiness.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\CoreBusiness\bin\Debug\net8.0\CoreBusiness.pdb
+D:\WAD\Backup Fara Nebuneli\MVC Core\CoreBusiness\obj\Debug\net8.0\CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\WAD\Backup Fara Nebuneli\MVC Core\CoreBusiness\obj\Debug\net8.0\CoreBusiness.AssemblyInfoInputs.cache
+D:\WAD\Backup Fara Nebuneli\MVC Core\CoreBusiness\obj\Debug\net8.0\CoreBusiness.AssemblyInfo.cs
+D:\WAD\Backup Fara Nebuneli\MVC Core\CoreBusiness\obj\Debug\net8.0\CoreBusiness.csproj.CoreCompileInputs.cache
+D:\WAD\Backup Fara Nebuneli\MVC Core\CoreBusiness\obj\Debug\net8.0\CoreBusiness.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\CoreBusiness\obj\Debug\net8.0\refint\CoreBusiness.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\CoreBusiness\obj\Debug\net8.0\CoreBusiness.pdb
+D:\WAD\Backup Fara Nebuneli\MVC Core\CoreBusiness\obj\Debug\net8.0\ref\CoreBusiness.dll
+D:\WAD\MVC Core\CoreBusiness\bin\Debug\net8.0\CoreBusiness.deps.json
+D:\WAD\MVC Core\CoreBusiness\bin\Debug\net8.0\CoreBusiness.dll
+D:\WAD\MVC Core\CoreBusiness\bin\Debug\net8.0\CoreBusiness.pdb
+D:\WAD\MVC Core\CoreBusiness\obj\Debug\net8.0\CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\WAD\MVC Core\CoreBusiness\obj\Debug\net8.0\CoreBusiness.AssemblyInfoInputs.cache
+D:\WAD\MVC Core\CoreBusiness\obj\Debug\net8.0\CoreBusiness.AssemblyInfo.cs
+D:\WAD\MVC Core\CoreBusiness\obj\Debug\net8.0\CoreBusiness.csproj.CoreCompileInputs.cache
+D:\WAD\MVC Core\CoreBusiness\obj\Debug\net8.0\CoreBusiness.dll
+D:\WAD\MVC Core\CoreBusiness\obj\Debug\net8.0\refint\CoreBusiness.dll
+D:\WAD\MVC Core\CoreBusiness\obj\Debug\net8.0\CoreBusiness.pdb
+D:\WAD\MVC Core\CoreBusiness\obj\Debug\net8.0\ref\CoreBusiness.dll

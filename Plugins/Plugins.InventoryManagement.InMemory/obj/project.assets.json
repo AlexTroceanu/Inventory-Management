@@ -1,0 +1,142 @@
+{
+  "version": 3,
+  "targets": {
+<<<<<<< HEAD
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+=======
+    "net8.0": {
+      "CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoreBusiness.dll": {}
+        }
+      },
+      "UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UseCases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreBusiness/1.0.0": {
+      "type": "project",
+      "path": "../../CoreBusiness/CoreBusiness.csproj",
+      "msbuildProject": "../../CoreBusiness/CoreBusiness.csproj"
+    },
+    "UseCases/1.0.0": {
+      "type": "project",
+      "path": "../../UseCases/UseCases.csproj",
+      "msbuildProject": "../../UseCases/UseCases.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CoreBusiness >= 1.0.0",
+      "UseCases >= 1.0.0"
+    ]
+>>>>>>> 6979bea (login)
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "D:\\WAD\\Backup La Backup\\MVC Core\\Plugins\\Plugins.InventoryManagement.InMemory\\Plugins.InventoryManagement.InMemory.csproj",
+      "projectName": "Plugins.InventoryManagement.InMemory",
+      "projectPath": "D:\\WAD\\Backup La Backup\\MVC Core\\Plugins\\Plugins.InventoryManagement.InMemory\\Plugins.InventoryManagement.InMemory.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\WAD\\Backup La Backup\\MVC Core\\Plugins\\Plugins.InventoryManagement.InMemory\\obj\\",
+=======
+      "projectUniqueName": "D:\\WAD\\MVC Core\\Plugins\\Plugins.InventoryManagement.InMemory\\Plugins.DataStore.InMemory.csproj",
+      "projectName": "Plugins.DataStore.InMemory",
+      "projectPath": "D:\\WAD\\MVC Core\\Plugins\\Plugins.InventoryManagement.InMemory\\Plugins.DataStore.InMemory.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\WAD\\MVC Core\\Plugins\\Plugins.InventoryManagement.InMemory\\obj\\",
+>>>>>>> 6979bea (login)
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+<<<<<<< HEAD
+          "projectReferences": {}
+=======
+          "projectReferences": {
+            "D:\\WAD\\MVC Core\\CoreBusiness\\CoreBusiness.csproj": {
+              "projectPath": "D:\\WAD\\MVC Core\\CoreBusiness\\CoreBusiness.csproj"
+            },
+            "D:\\WAD\\MVC Core\\UseCases\\UseCases.csproj": {
+              "projectPath": "D:\\WAD\\MVC Core\\UseCases\\UseCases.csproj"
+            }
+          }
+>>>>>>> 6979bea (login)
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 6979bea (login)
+      }
+    }
+  }
+}

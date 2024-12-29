@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+<<<<<<< HEAD
+    "D:\\WAD\\Backup La Backup\\MVC Core\\Plugins\\Plugins.InventoryManagement.SQL\\Plugins.InventoryManagement.SQL.csproj": {}
+  },
+  "projects": {
+    "D:\\WAD\\Backup La Backup\\MVC Core\\Plugins\\Plugins.InventoryManagement.SQL\\Plugins.InventoryManagement.SQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WAD\\Backup La Backup\\MVC Core\\Plugins\\Plugins.InventoryManagement.SQL\\Plugins.InventoryManagement.SQL.csproj",
+        "projectName": "Plugins.InventoryManagement.SQL",
+        "projectPath": "D:\\WAD\\Backup La Backup\\MVC Core\\Plugins\\Plugins.InventoryManagement.SQL\\Plugins.InventoryManagement.SQL.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\WAD\\Backup La Backup\\MVC Core\\Plugins\\Plugins.InventoryManagement.SQL\\obj\\",
+=======
+    "D:\\WAD\\Backup Fara Nebuneli\\MVC Core\\Plugins\\Plugins.InventoryManagement.SQL\\Plugins.InventoryManagement.SQL.csproj": {}
+  },
+  "projects": {
+    "D:\\WAD\\Backup Fara Nebuneli\\MVC Core\\Plugins\\Plugins.InventoryManagement.SQL\\Plugins.InventoryManagement.SQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WAD\\Backup Fara Nebuneli\\MVC Core\\Plugins\\Plugins.InventoryManagement.SQL\\Plugins.InventoryManagement.SQL.csproj",
+        "projectName": "Plugins.InventoryManagement.SQL",
+        "projectPath": "D:\\WAD\\Backup Fara Nebuneli\\MVC Core\\Plugins\\Plugins.InventoryManagement.SQL\\Plugins.InventoryManagement.SQL.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\WAD\\Backup Fara Nebuneli\\MVC Core\\Plugins\\Plugins.InventoryManagement.SQL\\obj\\",
+>>>>>>> 6979bea (login)
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 6979bea (login)
+        }
+      }
+    }
+  }
+}

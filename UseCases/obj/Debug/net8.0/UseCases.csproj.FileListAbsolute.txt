@@ -1,0 +1,30 @@
+D:\WAD\Backup Fara Nebuneli\MVC Core\UseCases\bin\Debug\net8.0\UseCases.deps.json
+D:\WAD\Backup Fara Nebuneli\MVC Core\UseCases\bin\Debug\net8.0\UseCases.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\UseCases\bin\Debug\net8.0\UseCases.pdb
+D:\WAD\Backup Fara Nebuneli\MVC Core\UseCases\bin\Debug\net8.0\CoreBusiness.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\UseCases\bin\Debug\net8.0\CoreBusiness.pdb
+D:\WAD\Backup Fara Nebuneli\MVC Core\UseCases\obj\Debug\net8.0\UseCases.csproj.AssemblyReference.cache
+D:\WAD\Backup Fara Nebuneli\MVC Core\UseCases\obj\Debug\net8.0\UseCases.GeneratedMSBuildEditorConfig.editorconfig
+D:\WAD\Backup Fara Nebuneli\MVC Core\UseCases\obj\Debug\net8.0\UseCases.AssemblyInfoInputs.cache
+D:\WAD\Backup Fara Nebuneli\MVC Core\UseCases\obj\Debug\net8.0\UseCases.AssemblyInfo.cs
+D:\WAD\Backup Fara Nebuneli\MVC Core\UseCases\obj\Debug\net8.0\UseCases.csproj.CoreCompileInputs.cache
+D:\WAD\Backup Fara Nebuneli\MVC Core\UseCases\obj\Debug\net8.0\UseCases.csproj.Up2Date
+D:\WAD\Backup Fara Nebuneli\MVC Core\UseCases\obj\Debug\net8.0\UseCases.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\UseCases\obj\Debug\net8.0\refint\UseCases.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\UseCases\obj\Debug\net8.0\UseCases.pdb
+D:\WAD\Backup Fara Nebuneli\MVC Core\UseCases\obj\Debug\net8.0\ref\UseCases.dll
+D:\WAD\MVC Core\UseCases\bin\Debug\net8.0\UseCases.deps.json
+D:\WAD\MVC Core\UseCases\bin\Debug\net8.0\UseCases.dll
+D:\WAD\MVC Core\UseCases\bin\Debug\net8.0\UseCases.pdb
+D:\WAD\MVC Core\UseCases\bin\Debug\net8.0\CoreBusiness.dll
+D:\WAD\MVC Core\UseCases\bin\Debug\net8.0\CoreBusiness.pdb
+D:\WAD\MVC Core\UseCases\obj\Debug\net8.0\UseCases.csproj.AssemblyReference.cache
+D:\WAD\MVC Core\UseCases\obj\Debug\net8.0\UseCases.GeneratedMSBuildEditorConfig.editorconfig
+D:\WAD\MVC Core\UseCases\obj\Debug\net8.0\UseCases.AssemblyInfoInputs.cache
+D:\WAD\MVC Core\UseCases\obj\Debug\net8.0\UseCases.AssemblyInfo.cs
+D:\WAD\MVC Core\UseCases\obj\Debug\net8.0\UseCases.csproj.CoreCompileInputs.cache
+D:\WAD\MVC Core\UseCases\obj\Debug\net8.0\UseCases.csproj.Up2Date
+D:\WAD\MVC Core\UseCases\obj\Debug\net8.0\UseCases.dll
+D:\WAD\MVC Core\UseCases\obj\Debug\net8.0\refint\UseCases.dll
+D:\WAD\MVC Core\UseCases\obj\Debug\net8.0\UseCases.pdb
+D:\WAD\MVC Core\UseCases\obj\Debug\net8.0\ref\UseCases.dll

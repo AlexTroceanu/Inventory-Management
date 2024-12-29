@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WAD\\Backup La Backup\\MVC Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\models\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\models\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\models\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\models\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\models\\transactionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\models\\transactionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\viewcomponent\\transactionsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\viewcomponent\\transactionsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\viewmodels\\transactionsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\viewmodels\\transactionsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\viewmodels\\validations\\salesviewmodel_ensureproperquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\viewmodels\\validations\\salesviewmodel_ensureproperquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\inventory management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\inventory management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\views\\shared\\components\\transactions\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\views\\shared\\components\\transactions\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|d:\\wad\\backup la backup\\mvc core\\inventory management\\viewmodels\\salesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB470BAC-BDB3-4ACC-A43A-8408A12CF08F}|Inventory Management\\Inventory Management.csproj|solutionrelative:inventory management\\viewmodels\\salesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Inventory Management\\Models\\Category.cs",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Models\\Category.cs",
+              "RelativeToolTip": "Inventory Management\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T01:09:14.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesRepository.cs",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Models\\CategoriesRepository.cs",
+              "RelativeDocumentMoniker": "Inventory Management\\Models\\CategoriesRepository.cs",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Models\\CategoriesRepository.cs",
+              "RelativeToolTip": "Inventory Management\\Models\\CategoriesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T01:09:11.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Views\\Transactions\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventory Management\\Views\\Transactions\\Index.cshtml",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Views\\Transactions\\Index.cshtml",
+              "RelativeToolTip": "Inventory Management\\Views\\Transactions\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T01:52:38.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionsViewModel.cs",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\ViewModels\\TransactionsViewModel.cs",
+              "RelativeDocumentMoniker": "Inventory Management\\ViewModels\\TransactionsViewModel.cs",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\ViewModels\\TransactionsViewModel.cs",
+              "RelativeToolTip": "Inventory Management\\ViewModels\\TransactionsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:44:56.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionsViewComponent.cs",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\ViewComponent\\TransactionsViewComponent.cs",
+              "RelativeDocumentMoniker": "Inventory Management\\ViewComponent\\TransactionsViewComponent.cs",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\ViewComponent\\TransactionsViewComponent.cs",
+              "RelativeToolTip": "Inventory Management\\ViewComponent\\TransactionsViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:19:24.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionsRepository.cs",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Models\\TransactionsRepository.cs",
+              "RelativeDocumentMoniker": "Inventory Management\\Models\\TransactionsRepository.cs",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Models\\TransactionsRepository.cs",
+              "RelativeToolTip": "Inventory Management\\Models\\TransactionsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:07:08.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Models\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "Inventory Management\\Models\\ProductsRepository.cs",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Models\\ProductsRepository.cs",
+              "RelativeToolTip": "Inventory Management\\Models\\ProductsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T00:23:12.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Inventory Management\\Models\\Product.cs",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Models\\Product.cs",
+              "RelativeToolTip": "Inventory Management\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T01:09:16.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalesViewModel_EnsureProperQuantity.cs",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\ViewModels\\Validations\\SalesViewModel_EnsureProperQuantity.cs",
+              "RelativeDocumentMoniker": "Inventory Management\\ViewModels\\Validations\\SalesViewModel_EnsureProperQuantity.cs",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\ViewModels\\Validations\\SalesViewModel_EnsureProperQuantity.cs",
+              "RelativeToolTip": "Inventory Management\\ViewModels\\Validations\\SalesViewModel_EnsureProperQuantity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T00:42:55.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Inventory Management\\Controllers\\TransactionsController.cs",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "Inventory Management\\Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:50:59.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Inventory Management\\Models\\Transaction.cs",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Models\\Transaction.cs",
+              "RelativeToolTip": "Inventory Management\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T00:57:12.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Inventory Management\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Inventory Management\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-17T22:01:12.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Inventory Management.csproj",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Inventory Management.csproj",
+              "RelativeDocumentMoniker": "Inventory Management\\Inventory Management.csproj",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Inventory Management.csproj",
+              "RelativeToolTip": "Inventory Management\\Inventory Management.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T01:18:33.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Views\\Sales\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventory Management\\Views\\Sales\\Index.cshtml",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Views\\Sales\\Index.cshtml",
+              "RelativeToolTip": "Inventory Management\\Views\\Sales\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T20:30:23.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Views\\Shared\\Components\\Transactions\\Default.cshtml",
+              "RelativeDocumentMoniker": "Inventory Management\\Views\\Shared\\Components\\Transactions\\Default.cshtml",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Views\\Shared\\Components\\Transactions\\Default.cshtml",
+              "RelativeToolTip": "Inventory Management\\Views\\Shared\\Components\\Transactions\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T01:35:34.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Program.cs",
+              "RelativeDocumentMoniker": "Inventory Management\\Program.cs",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Program.cs",
+              "RelativeToolTip": "Inventory Management\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:54:30.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Inventory Management\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Inventory Management\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T23:40:39.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Inventory Management\\Controllers\\SalesController.cs",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Inventory Management\\Controllers\\SalesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIAwwBcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:30:01.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SalesViewModel.cs",
+              "DocumentMoniker": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\ViewModels\\SalesViewModel.cs",
+              "RelativeDocumentMoniker": "Inventory Management\\ViewModels\\SalesViewModel.cs",
+              "ToolTip": "D:\\WAD\\Backup La Backup\\MVC Core\\Inventory Management\\ViewModels\\SalesViewModel.cs",
+              "RelativeToolTip": "Inventory Management\\ViewModels\\SalesViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T23:51:57.92Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
