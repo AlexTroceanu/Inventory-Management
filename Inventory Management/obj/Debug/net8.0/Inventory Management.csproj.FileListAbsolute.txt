@@ -1,0 +1,272 @@
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\appsettings.json
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.exe
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.deps.json
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.runtimeconfig.json
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.pdb
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.AssemblyInfo.cs
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets\msbuild.Inventory Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets\msbuild.build.Inventory Management.props
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Inventory Management.props
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Inventory Management.props
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\scopedcss\bundle\Inventory Management.styles.css
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\refint\Inventory Management.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.pdb
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.genruntimeconfig.cache
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\ref\Inventory Management.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.staticwebassets.runtime.json
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MVC Core\Inventory Management\obj\Debug\net8.0\Inventor.CCAFEA7E.Up2Date
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\appsettings.Development.json
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\appsettings.json
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.staticwebassets.runtime.json
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.exe
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.deps.json
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.runtimeconfig.json
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.pdb
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Azure.Core.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Azure.Identity.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\System.Memory.Data.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WAD\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.csproj.AssemblyReference.cache
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.AssemblyInfoInputs.cache
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.AssemblyInfo.cs
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.csproj.CoreCompileInputs.cache
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.MvcApplicationPartsAssemblyInfo.cache
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.RazorAssemblyInfo.cache
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.RazorAssemblyInfo.cs
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets.build.json
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets.development.json
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets\msbuild.Inventory Management.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets\msbuild.build.Inventory Management.props
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Inventory Management.props
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Inventory Management.props
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets.pack.json
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\scopedcss\bundle\Inventory Management.styles.css
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\Inventor.CCAFEA7E.Up2Date
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.dll
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\refint\Inventory Management.dll
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.pdb
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.genruntimeconfig.cache
+D:\WAD\MVC Core\Inventory Management\obj\Debug\net8.0\ref\Inventory Management.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\appsettings.Development.json
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\appsettings.json
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.staticwebassets.runtime.json
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.exe
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.deps.json
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.runtimeconfig.json
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.pdb
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Azure.Core.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Azure.Identity.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\System.Memory.Data.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.csproj.AssemblyReference.cache
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.AssemblyInfoInputs.cache
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.AssemblyInfo.cs
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.csproj.CoreCompileInputs.cache
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.MvcApplicationPartsAssemblyInfo.cache
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.RazorAssemblyInfo.cache
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.RazorAssemblyInfo.cs
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets.build.json
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets.development.json
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets\msbuild.Inventory Management.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets\msbuild.build.Inventory Management.props
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Inventory Management.props
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Inventory Management.props
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets.pack.json
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\scopedcss\bundle\Inventory Management.styles.css
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\Inventor.CCAFEA7E.Up2Date
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\refint\Inventory Management.dll
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.pdb
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.genruntimeconfig.cache
+D:\WAD\Backup Fara Nebuneli\MVC Core\Inventory Management\obj\Debug\net8.0\ref\Inventory Management.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\appsettings.Development.json
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\appsettings.json
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.staticwebassets.runtime.json
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.exe
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.deps.json
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.runtimeconfig.json
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Inventory Management.pdb
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Azure.Core.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Azure.Identity.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\System.Memory.Data.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.csproj.AssemblyReference.cache
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.AssemblyInfoInputs.cache
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.AssemblyInfo.cs
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.csproj.CoreCompileInputs.cache
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.MvcApplicationPartsAssemblyInfo.cache
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.RazorAssemblyInfo.cache
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.RazorAssemblyInfo.cs
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets.build.json
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets.development.json
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets\msbuild.Inventory Management.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets\msbuild.build.Inventory Management.props
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Inventory Management.props
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Inventory Management.props
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\staticwebassets.pack.json
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\scopedcss\bundle\Inventory Management.styles.css
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\Inventor.CCAFEA7E.Up2Date
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\refint\Inventory Management.dll
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.pdb
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\Inventory Management.genruntimeconfig.cache
+D:\WAD\Backup La Backup\MVC Core\Inventory Management\obj\Debug\net8.0\ref\Inventory Management.dll
